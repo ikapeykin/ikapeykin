@@ -2,7 +2,7 @@
 
 - 🚶 I live in Belarus.
 - 🐍 I'm a senior software engineer at [iTechArt](http://itechart.com/).
-- 🤖 Most of the time I'm writing on Python, TypeScript and Go.
+- 🤖 Most of the time I'm writing on Python, TypeScript, Kotlin and Go.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - 🤗 Languages: 🇷🇺  🇬🇧  🇮🇹  🇧🇾 
 
