@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm Ivan
 
 - 🚶 I live in Belarus.
-- 🐍 I'm a senior software engineer at [iTechArt](http://itechart.com/).
+- 🐍 I'm a Senior Software Engineer at [iTechArt](http://itechart.com/).
 - 🤖 Most of the time I'm writing on Python, TypeScript, Kotlin and Go.
+- 📄 My professional experience [CV](https://drive.google.com/file/d/1-eH9x69siQeOC0_nffhMwv13OQL8F4VR/view?usp=sharing).
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - 🤗 Languages: 🇷🇺  🇬🇧  🇮🇹  🇧🇾 
 
