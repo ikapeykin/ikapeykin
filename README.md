@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ivan
 
 - 🚶 I live in Belarus.
-- 🐍 I'm a Senior Software Engineer at [iTechArt](http://itechart.com/).
+- 🐍 I'm a Senior Software Engineer at [Yandex, Self-Driving](http://sdg.yandex.com/).
 - 🤖 Most of the time I'm writing on Python, Go and TypeScript.
 - 📄 My professional experience [CV](https://drive.google.com/file/d/1-eH9x69siQeOC0_nffhMwv13OQL8F4VR/view?usp=sharing).
 - 🚀 I love pet-projects. They help me grow professionally all my life.
